@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf722b9-3526-4141-ab3d-96f5e78f246a" name="Changes" comment="the first commit of 03Jan23ds">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ddf722b9-3526-4141-ab3d-96f5e78f246a" name="Changes" comment="Add the library_app by william 03jan23" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,8 +36,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/ubuntu/work15old",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
@@ -91,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672703072015</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add the library_app by william 03jan23">
+      <created>1672711070788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672711070788</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add the library_app by william 03jan23">
+      <created>1672711249436</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672711249436</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +127,7 @@
     </ignored-roots>
     <MESSAGE value="the first original of study 3/Jan/22" />
     <MESSAGE value="the first commit of 03Jan23" />
-    <option name="LAST_COMMIT_MESSAGE" value="the first commit of 03Jan23" />
+    <MESSAGE value="Add the library_app by william 03jan23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the library_app by william 03jan23" />
   </component>
 </project>
