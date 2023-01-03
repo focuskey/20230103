@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf722b9-3526-4141-ab3d-96f5e78f246a" name="Changes" comment="the first commit of 03Jan23ds" />
+    <list default="true" id="ddf722b9-3526-4141-ab3d-96f5e78f246a" name="Changes" comment="the first commit of 03Jan23ds">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +19,8 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="51303578-572a-46ed-873f-31383b06d573" />
-        <option name="url" value="https://github.com/focuskey/odoo_study_03Jan_wl.git" />
+        <option name="accountId" value="a34ca039-87a0-4556-ae55-36f62e9bccf3" />
+        <option name="url" value="https://github.com/focuskey/20230103.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -26,13 +28,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JCtPo5D4zzbZ5n0rRmkpYjPsQN" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/ubuntu/work15old",
@@ -101,6 +106,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/odoo" />
